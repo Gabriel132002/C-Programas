@@ -1,0 +1,15 @@
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\bin\Debug\net6.0\QuartoEx.exe
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\bin\Debug\net6.0\QuartoEx.deps.json
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\bin\Debug\net6.0\QuartoEx.runtimeconfig.json
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\bin\Debug\net6.0\QuartoEx.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\bin\Debug\net6.0\QuartoEx.pdb
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\obj\Debug\net6.0\QuartoEx.csproj.AssemblyReference.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\obj\Debug\net6.0\QuartoEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\obj\Debug\net6.0\QuartoEx.AssemblyInfoInputs.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\obj\Debug\net6.0\QuartoEx.AssemblyInfo.cs
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\obj\Debug\net6.0\QuartoEx.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\obj\Debug\net6.0\QuartoEx.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\obj\Debug\net6.0\refint\QuartoEx.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\obj\Debug\net6.0\QuartoEx.pdb
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\obj\Debug\net6.0\QuartoEx.genruntimeconfig.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuartoEx\obj\Debug\net6.0\ref\QuartoEx.dll

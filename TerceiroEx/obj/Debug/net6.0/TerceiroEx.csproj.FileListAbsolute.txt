@@ -1,0 +1,15 @@
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\bin\Debug\net6.0\TerceiroEx.exe
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\bin\Debug\net6.0\TerceiroEx.deps.json
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\bin\Debug\net6.0\TerceiroEx.runtimeconfig.json
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\bin\Debug\net6.0\TerceiroEx.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\bin\Debug\net6.0\TerceiroEx.pdb
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\obj\Debug\net6.0\TerceiroEx.csproj.AssemblyReference.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\obj\Debug\net6.0\TerceiroEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\obj\Debug\net6.0\TerceiroEx.AssemblyInfoInputs.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\obj\Debug\net6.0\TerceiroEx.AssemblyInfo.cs
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\obj\Debug\net6.0\TerceiroEx.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\obj\Debug\net6.0\TerceiroEx.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\obj\Debug\net6.0\refint\TerceiroEx.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\obj\Debug\net6.0\TerceiroEx.pdb
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\obj\Debug\net6.0\TerceiroEx.genruntimeconfig.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\TerceiroEx\obj\Debug\net6.0\ref\TerceiroEx.dll
