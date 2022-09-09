@@ -33,20 +33,20 @@ namespace CaixaDeSupermercado
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.box1Produto = new System.Windows.Forms.TextBox();
+            this.box2Quantidade = new System.Windows.Forms.TextBox();
+            this.box3PcUnit = new System.Windows.Forms.TextBox();
+            this.box4Subtot = new System.Windows.Forms.TextBox();
+            this.btnAdd = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
-            this.listBox1 = new System.Windows.Forms.ListBox();
-            this.listBox2 = new System.Windows.Forms.ListBox();
-            this.listBox3 = new System.Windows.Forms.ListBox();
-            this.listBox4 = new System.Windows.Forms.ListBox();
+            this.listProduto = new System.Windows.Forms.ListBox();
+            this.listQuantidade = new System.Windows.Forms.ListBox();
+            this.listPcUnit = new System.Windows.Forms.ListBox();
+            this.listSubTot = new System.Windows.Forms.ListBox();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
@@ -61,7 +61,6 @@ namespace CaixaDeSupermercado
             this.label1.Size = new System.Drawing.Size(47, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Produto:";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -90,48 +89,47 @@ namespace CaixaDeSupermercado
             this.label4.TabIndex = 3;
             this.label4.Text = "Sub Total:";
             // 
-            // textBox1
+            // box1Produto
             // 
-            this.textBox1.Location = new System.Drawing.Point(36, 47);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 4;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.box1Produto.Location = new System.Drawing.Point(36, 47);
+            this.box1Produto.Name = "box1Produto";
+            this.box1Produto.Size = new System.Drawing.Size(100, 20);
+            this.box1Produto.TabIndex = 4;
+            
             // 
-            // textBox2
+            // box2Quantidade
             // 
-            this.textBox2.Location = new System.Drawing.Point(221, 47);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 5;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            this.box2Quantidade.Location = new System.Drawing.Point(221, 47);
+            this.box2Quantidade.Name = "box2Quantidade";
+            this.box2Quantidade.Size = new System.Drawing.Size(100, 20);
+            this.box2Quantidade.TabIndex = 5;
+            
             // 
-            // textBox3
+            // box3PcUnit
             // 
-            this.textBox3.Location = new System.Drawing.Point(419, 47);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 20);
-            this.textBox3.TabIndex = 6;
-            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
+            this.box3PcUnit.Location = new System.Drawing.Point(419, 47);
+            this.box3PcUnit.Name = "box3PcUnit";
+            this.box3PcUnit.Size = new System.Drawing.Size(100, 20);
+            this.box3PcUnit.TabIndex = 6;
             // 
-            // textBox4
+            // box4Subtot
             // 
-            this.textBox4.Enabled = false;
-            this.textBox4.Location = new System.Drawing.Point(633, 47);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 20);
-            this.textBox4.TabIndex = 7;
-            this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
+            this.box4Subtot.Enabled = false;
+            this.box4Subtot.Location = new System.Drawing.Point(633, 47);
+            this.box4Subtot.Name = "box4Subtot";
+            this.box4Subtot.Size = new System.Drawing.Size(100, 20);
+            this.box4Subtot.TabIndex = 7;
+            this.box4Subtot.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // button1
+            // btnAdd
             // 
-            this.button1.Location = new System.Drawing.Point(98, 132);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(135, 23);
-            this.button1.TabIndex = 8;
-            this.button1.Text = "Adicionar produto na lista\r\n";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnAdd.Location = new System.Drawing.Point(98, 132);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.Size = new System.Drawing.Size(135, 23);
+            this.btnAdd.TabIndex = 8;
+            this.btnAdd.Text = "Adicionar produto na lista\r\n";
+            this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // button2
             // 
@@ -178,37 +176,41 @@ namespace CaixaDeSupermercado
             this.label9.TabIndex = 14;
             this.label9.Text = "Sub Total:";
             // 
-            // listBox1
+            // listProduto
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(36, 250);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(100, 160);
-            this.listBox1.TabIndex = 15;
+            this.listProduto.FormattingEnabled = true;
+            this.listProduto.Location = new System.Drawing.Point(36, 250);
+            this.listProduto.Name = "listProduto";
+            this.listProduto.Size = new System.Drawing.Size(100, 160);
+            this.listProduto.TabIndex = 15;
+            this.listProduto.SelectedIndexChanged += new System.EventHandler(this.listProduto_SelectedIndexChanged);
             // 
-            // listBox2
+            // listQuantidade
             // 
-            this.listBox2.FormattingEnabled = true;
-            this.listBox2.Location = new System.Drawing.Point(221, 250);
-            this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(100, 160);
-            this.listBox2.TabIndex = 16;
+            this.listQuantidade.FormattingEnabled = true;
+            this.listQuantidade.Location = new System.Drawing.Point(221, 250);
+            this.listQuantidade.Name = "listQuantidade";
+            this.listQuantidade.Size = new System.Drawing.Size(100, 160);
+            this.listQuantidade.TabIndex = 16;
+            this.listQuantidade.SelectedIndexChanged += new System.EventHandler(this.listQuantidade_SelectedIndexChanged);
             // 
-            // listBox3
+            // listPcUnit
             // 
-            this.listBox3.FormattingEnabled = true;
-            this.listBox3.Location = new System.Drawing.Point(419, 250);
-            this.listBox3.Name = "listBox3";
-            this.listBox3.Size = new System.Drawing.Size(100, 160);
-            this.listBox3.TabIndex = 17;
+            this.listPcUnit.FormattingEnabled = true;
+            this.listPcUnit.Location = new System.Drawing.Point(419, 250);
+            this.listPcUnit.Name = "listPcUnit";
+            this.listPcUnit.Size = new System.Drawing.Size(100, 160);
+            this.listPcUnit.TabIndex = 17;
+            this.listPcUnit.SelectedIndexChanged += new System.EventHandler(this.listPcUnit_SelectedIndexChanged);
             // 
-            // listBox4
+            // listSubTot
             // 
-            this.listBox4.FormattingEnabled = true;
-            this.listBox4.Location = new System.Drawing.Point(633, 250);
-            this.listBox4.Name = "listBox4";
-            this.listBox4.Size = new System.Drawing.Size(100, 160);
-            this.listBox4.TabIndex = 18;
+            this.listSubTot.FormattingEnabled = true;
+            this.listSubTot.Location = new System.Drawing.Point(633, 250);
+            this.listSubTot.Name = "listSubTot";
+            this.listSubTot.Size = new System.Drawing.Size(100, 160);
+            this.listSubTot.TabIndex = 18;
+            this.listSubTot.SelectedIndexChanged += new System.EventHandler(this.listSubTot_SelectedIndexChanged);
             // 
             // button3
             // 
@@ -236,7 +238,6 @@ namespace CaixaDeSupermercado
             this.label5.Size = new System.Drawing.Size(73, 13);
             this.label5.TabIndex = 21;
             this.label5.Text = "Total a pagar:";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // listBox5
             // 
@@ -255,20 +256,20 @@ namespace CaixaDeSupermercado
             this.Controls.Add(this.label5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
-            this.Controls.Add(this.listBox4);
-            this.Controls.Add(this.listBox3);
-            this.Controls.Add(this.listBox2);
-            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.listSubTot);
+            this.Controls.Add(this.listPcUnit);
+            this.Controls.Add(this.listQuantidade);
+            this.Controls.Add(this.listProduto);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.btnAdd);
+            this.Controls.Add(this.box4Subtot);
+            this.Controls.Add(this.box3PcUnit);
+            this.Controls.Add(this.box2Quantidade);
+            this.Controls.Add(this.box1Produto);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -286,20 +287,20 @@ namespace CaixaDeSupermercado
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox box1Produto;
+        private System.Windows.Forms.TextBox box2Quantidade;
+        private System.Windows.Forms.TextBox box3PcUnit;
+        private System.Windows.Forms.TextBox box4Subtot;
+        private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.ListBox listBox2;
-        private System.Windows.Forms.ListBox listBox3;
-        private System.Windows.Forms.ListBox listBox4;
+        private System.Windows.Forms.ListBox listProduto;
+        private System.Windows.Forms.ListBox listQuantidade;
+        private System.Windows.Forms.ListBox listPcUnit;
+        private System.Windows.Forms.ListBox listSubTot;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Label label5;

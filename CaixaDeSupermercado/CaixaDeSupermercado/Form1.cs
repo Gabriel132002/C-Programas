@@ -17,34 +17,29 @@ namespace CaixaDeSupermercado
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void listProduto_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
+            string produto = box1Produto.Text;
         }
 
-        private void label5_Click(object sender, EventArgs e)
+        private void listQuantidade_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int qtd = Convert.ToInt32(Console.ReadLine());
+        }
+
+        private void listPcUnit_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void listSubTot_SelectedIndexChanged(object sender, EventArgs e)
         {
-            string produto = textBox1.Text;
+            listSubTot.Items.Add(box1Produto);
         }
 
-        private void textBox2_TextChanged(object sender, EventArgs e)
+        private void btnAdd_Click(object sender, EventArgs e)
         {
-            
-        }
 
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-            string pcunit = textBox3.Text;
-        }
-
-        private void textBox4_TextChanged(object sender, EventArgs e)
-        {
-            
         }
     }
 }
