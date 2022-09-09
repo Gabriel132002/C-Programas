@@ -7,7 +7,9 @@ namespace Testes
         static void Main(string[] args)
         {
             Console.WriteLine("Testando o Git Hub");
-            Console.WriteLine("Adicionar apenas a linha nova");
+            Console.WriteLine("Spider-man");
+            Console.WriteLine("Cap. America");
+            Console.WriteLine("Iron Man");
         }
     }
 }
