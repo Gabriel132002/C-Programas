@@ -29,12 +29,13 @@ namespace CaixaDeSupermercado
 
         private void listPcUnit_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            double pcUnit = Convert.ToDouble(Console.ReadLine());
         }
 
         private void listSubTot_SelectedIndexChanged(object sender, EventArgs e)
         {
-            listSubTot.Items.Add(box1Produto);
+            double total = Convert.ToDouble(Console.ReadLine());
+            
         }
 
         private void btnAdd_Click(object sender, EventArgs e)
