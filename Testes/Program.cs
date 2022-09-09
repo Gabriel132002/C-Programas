@@ -9,6 +9,7 @@ namespace Testes
             Console.WriteLine("Testando o Git Hub");
             Console.WriteLine("Spider-man");
             Console.WriteLine("Cap. America");
+            Console.WriteLine("Iron Man");
         }
     }
 }
