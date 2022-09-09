@@ -1,0 +1,30 @@
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\bin\Debug\net6.0\PrimeiroEx.exe
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\bin\Debug\net6.0\PrimeiroEx.deps.json
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\bin\Debug\net6.0\PrimeiroEx.runtimeconfig.json
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\bin\Debug\net6.0\PrimeiroEx.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\bin\Debug\net6.0\PrimeiroEx.pdb
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.csproj.AssemblyReference.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.AssemblyInfoInputs.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.AssemblyInfo.cs
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\obj\Debug\net6.0\refint\PrimeiroEx.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.pdb
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.genruntimeconfig.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroEx\obj\Debug\net6.0\ref\PrimeiroEx.dll
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\bin\Debug\net6.0\PrimeiroEx.exe
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\bin\Debug\net6.0\PrimeiroEx.deps.json
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\bin\Debug\net6.0\PrimeiroEx.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\bin\Debug\net6.0\PrimeiroEx.dll
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\bin\Debug\net6.0\PrimeiroEx.pdb
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.dll
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\obj\Debug\net6.0\refint\PrimeiroEx.dll
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.pdb
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\obj\Debug\net6.0\PrimeiroEx.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\PrimeiroEx\obj\Debug\net6.0\ref\PrimeiroEx.dll

@@ -1,0 +1,15 @@
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\bin\Debug\net6.0\PrimeiroApp.exe
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\bin\Debug\net6.0\PrimeiroApp.deps.json
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\bin\Debug\net6.0\PrimeiroApp.runtimeconfig.json
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\bin\Debug\net6.0\PrimeiroApp.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\bin\Debug\net6.0\PrimeiroApp.pdb
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.csproj.AssemblyReference.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.AssemblyInfoInputs.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.AssemblyInfo.cs
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\obj\Debug\net6.0\refint\PrimeiroApp.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.pdb
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.genruntimeconfig.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\PrimeiroApp\obj\Debug\net6.0\ref\PrimeiroApp.dll

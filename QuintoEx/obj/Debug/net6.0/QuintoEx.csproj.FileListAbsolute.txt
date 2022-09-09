@@ -1,0 +1,30 @@
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\bin\Debug\net6.0\QuintoEx.exe
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\bin\Debug\net6.0\QuintoEx.deps.json
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\bin\Debug\net6.0\QuintoEx.runtimeconfig.json
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\bin\Debug\net6.0\QuintoEx.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\bin\Debug\net6.0\QuintoEx.pdb
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\obj\Debug\net6.0\QuintoEx.csproj.AssemblyReference.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\obj\Debug\net6.0\QuintoEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\obj\Debug\net6.0\QuintoEx.AssemblyInfoInputs.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\obj\Debug\net6.0\QuintoEx.AssemblyInfo.cs
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\obj\Debug\net6.0\QuintoEx.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\obj\Debug\net6.0\QuintoEx.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\obj\Debug\net6.0\refint\QuintoEx.dll
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\obj\Debug\net6.0\QuintoEx.pdb
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\obj\Debug\net6.0\QuintoEx.genruntimeconfig.cache
+C:\Users\Gabriel Rodrigues\OneDrive\Documentos\vscode\C#\QuintoEx\obj\Debug\net6.0\ref\QuintoEx.dll
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\bin\Debug\net6.0\QuintoEx.exe
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\bin\Debug\net6.0\QuintoEx.deps.json
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\bin\Debug\net6.0\QuintoEx.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\bin\Debug\net6.0\QuintoEx.dll
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\bin\Debug\net6.0\QuintoEx.pdb
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\obj\Debug\net6.0\QuintoEx.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\obj\Debug\net6.0\QuintoEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\obj\Debug\net6.0\QuintoEx.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\obj\Debug\net6.0\QuintoEx.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\obj\Debug\net6.0\QuintoEx.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\obj\Debug\net6.0\QuintoEx.dll
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\obj\Debug\net6.0\refint\QuintoEx.dll
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\obj\Debug\net6.0\QuintoEx.pdb
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\obj\Debug\net6.0\QuintoEx.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\VsCode\FerramentasVisuais\ProgramasC-Sharp-PrimeiroAppCsharp\QuintoEx\obj\Debug\net6.0\ref\QuintoEx.dll
