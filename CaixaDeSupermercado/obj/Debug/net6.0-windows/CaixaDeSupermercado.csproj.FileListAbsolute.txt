@@ -1,0 +1,17 @@
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\bin\Debug\net6.0-windows\CaixaDeSupermercado.exe
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\bin\Debug\net6.0-windows\CaixaDeSupermercado.deps.json
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\bin\Debug\net6.0-windows\CaixaDeSupermercado.runtimeconfig.json
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\bin\Debug\net6.0-windows\CaixaDeSupermercado.dll
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\bin\Debug\net6.0-windows\CaixaDeSupermercado.pdb
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\obj\Debug\net6.0-windows\CaixaDeSupermercado.csproj.AssemblyReference.cache
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\obj\Debug\net6.0-windows\CaixaDeSupermercado.Form1.resources
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\obj\Debug\net6.0-windows\CaixaDeSupermercado.csproj.GenerateResource.cache
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\obj\Debug\net6.0-windows\CaixaDeSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\obj\Debug\net6.0-windows\CaixaDeSupermercado.AssemblyInfoInputs.cache
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\obj\Debug\net6.0-windows\CaixaDeSupermercado.AssemblyInfo.cs
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\obj\Debug\net6.0-windows\CaixaDeSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\obj\Debug\net6.0-windows\CaixaDeSupermercado.dll
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\obj\Debug\net6.0-windows\refint\CaixaDeSupermercado.dll
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\obj\Debug\net6.0-windows\CaixaDeSupermercado.pdb
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\obj\Debug\net6.0-windows\CaixaDeSupermercado.genruntimeconfig.cache
+C:\Users\Gabriel Rodrigues\source\repos\CaixaDeSupermercado\obj\Debug\net6.0-windows\ref\CaixaDeSupermercado.dll
