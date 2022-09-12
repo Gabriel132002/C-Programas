@@ -42,6 +42,10 @@
             this.lbQuantidade = new System.Windows.Forms.ListBox();
             this.lbPreco = new System.Windows.Forms.ListBox();
             this.lbSub = new System.Windows.Forms.ListBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.btnFechar = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
+            this.boxTotal = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // label1
@@ -130,6 +134,7 @@
             this.btnCancelar.TabIndex = 9;
             this.btnCancelar.Text = "Cancelar venda";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // lbProduto
             // 
@@ -167,11 +172,53 @@
             this.lbSub.Size = new System.Drawing.Size(120, 169);
             this.lbSub.TabIndex = 13;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(40, 468);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(645, 23);
+            this.button1.TabIndex = 14;
+            this.button1.Text = "Remover produto da lista de compras";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // btnFechar
+            // 
+            this.btnFechar.Location = new System.Drawing.Point(56, 523);
+            this.btnFechar.Name = "btnFechar";
+            this.btnFechar.Size = new System.Drawing.Size(104, 23);
+            this.btnFechar.TabIndex = 15;
+            this.btnFechar.Text = "Fechar venda";
+            this.btnFechar.UseVisualStyleBackColor = true;
+            this.btnFechar.Click += new System.EventHandler(this.btnFechar_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(463, 531);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(77, 15);
+            this.label5.TabIndex = 16;
+            this.label5.Text = "Total a pagar:";
+            // 
+            // boxTotal
+            // 
+            this.boxTotal.Enabled = false;
+            this.boxTotal.Location = new System.Drawing.Point(585, 523);
+            this.boxTotal.Name = "boxTotal";
+            this.boxTotal.Size = new System.Drawing.Size(100, 23);
+            this.boxTotal.TabIndex = 17;
+            this.boxTotal.TextChanged += new System.EventHandler(this.boxTotal_TextChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 581);
+            this.Controls.Add(this.boxTotal);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.btnFechar);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lbSub);
             this.Controls.Add(this.lbPreco);
             this.Controls.Add(this.lbQuantidade);
@@ -209,5 +256,9 @@
         private ListBox lbQuantidade;
         private ListBox lbPreco;
         private ListBox lbSub;
+        private Button button1;
+        private Button btnFechar;
+        private Label label5;
+        private TextBox boxTotal;
     }
 }
