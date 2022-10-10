@@ -37,7 +37,12 @@ namespace Escola
             try
             {
                 AlunosDB alunoBD = new AlunosDB();
-                Alunos alunoReg = new Alunos(int.Parse(tbMatricula.Text), tbNome.Text, Double.Parse(tbN1.Text), Double.Parse(tbN2.Text), Double.Parse(tbMedia.Text), "Aprovado");
+                Alunos alunoReg = new Alunos(
+                    int.Parse(tbMatricula.Text), tbNome.Text,
+                    Double.Parse(tbN1.Text),
+                    Double.Parse(tbN2.Text),
+                    Double.Parse(tbMedia.Text),
+                    "Aprovado");
 
                 alunoBD.IncluirAluno(alunoReg);
                 MessageBox.Show("Registro salvo com sucesso.");
@@ -65,6 +70,11 @@ namespace Escola
 
             tbMatricula.Focus();
             dataGridView1.DataSource = alunoBD.getAlunos();
+        }
+
+        private void tbMedia_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

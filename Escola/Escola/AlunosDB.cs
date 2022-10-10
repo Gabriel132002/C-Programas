@@ -69,7 +69,11 @@ namespace Escola
             {
                 throw new ApplicationException(ex.ToString());
             }
-            CN.Close();
+            finally
+            {
+                CN.Close();
+            }
+            
         }
     }
 }

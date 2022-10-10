@@ -88,6 +88,7 @@ namespace Escola
             this.tbMedia.Name = "tbMedia";
             this.tbMedia.Size = new System.Drawing.Size(73, 20);
             this.tbMedia.TabIndex = 6;
+            this.tbMedia.TextChanged += new System.EventHandler(this.tbMedia_TextChanged);
             // 
             // btnSalvar
             // 

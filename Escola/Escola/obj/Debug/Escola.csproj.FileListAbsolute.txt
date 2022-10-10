@@ -22,3 +22,27 @@ C:\Users\Gabriel Rodrigues\source\repos\Escola\Escola\obj\Debug\Escola.csproj.Co
 C:\Users\Gabriel Rodrigues\source\repos\Escola\Escola\obj\Debug\Escola.csproj.CopyComplete
 C:\Users\Gabriel Rodrigues\source\repos\Escola\Escola\obj\Debug\Escola.exe
 C:\Users\Gabriel Rodrigues\source\repos\Escola\Escola\obj\Debug\Escola.pdb
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\Escola.exe.config
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\Escola.exe
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\Escola.pdb
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\MySql.Data.dll
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\ZstdNet.dll
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\System.Memory.dll
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\System.Buffers.dll
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabri\source\repos\Escola\Escola\bin\Debug\MySql.Data.xml
+C:\Users\gabri\source\repos\Escola\Escola\obj\Debug\Escola.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\Escola\Escola\obj\Debug\Escola.exe.config
+C:\Users\gabri\source\repos\Escola\Escola\obj\Debug\Escola.Form1.resources
+C:\Users\gabri\source\repos\Escola\Escola\obj\Debug\Escola.Properties.Resources.resources
+C:\Users\gabri\source\repos\Escola\Escola\obj\Debug\Escola.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\Escola\Escola\obj\Debug\Escola.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Escola\Escola\obj\Debug\Escola.csproj.CopyComplete
+C:\Users\gabri\source\repos\Escola\Escola\obj\Debug\Escola.exe
+C:\Users\gabri\source\repos\Escola\Escola\obj\Debug\Escola.pdb
