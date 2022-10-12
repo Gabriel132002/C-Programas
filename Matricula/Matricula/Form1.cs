@@ -24,44 +24,23 @@ namespace Matricula
 
         private void btnSalvar_Click(object sender, EventArgs e)
         {
-            if (tbMatricula.Equals(""))
-            {
-                MessageBox.Show("Insira sua matrícula");
-                return;
-            }
             try
             {
                 AlunoDB alunoDB = new AlunoDB();
                 Alunos alunoReg = new Alunos(
-                    int.Parse(tbMatricula.Text),
                     int.Parse(tbTelefone.Text),
-                    tbNome.Text);
+                    tbNome.Text,
+                    tbCurso.Text,
+                    tbDisciplina.Text,
+                    tbEmail.Text
+                    );
                 alunoDB.incluirAluno(alunoReg);
                 MessageBox.Show("Salvo com sucesso");
-
+                btnLimpar.PerformClick();
             }
-            catch(Exception c)
+            catch(Exception C)
             {
-                MessageBox.Show(c.ToString());
-            }
-
-            if (tbDisciplina.Equals(""))
-            {
-                MessageBox.Show("Insira sua disciplina desejada");
-                return;
-            }
-            try
-            {
-                DisciplinaDB disDB = new DisciplinaDB();
-                Disciplina disReg = new Disciplina(
-                    tbDisciplina.Text
-                    );
-                disDB.incluirDisciplina(disReg);
-                MessageBox.Show("salvo");
-            }
-            catch(Exception c)
-            {
-                MessageBox.Show(c.ToString());
+                MessageBox.Show(C.ToString());
             }
         }
 
@@ -73,16 +52,13 @@ namespace Matricula
         private void btnLimpar_Click(object sender, EventArgs e)
         {
             AlunoDB alunosDB = new AlunoDB();
-            tbMatricula.Text = "";
             tbNome.Text = "";
             tbTelefone.Text = "";
             tbDisciplina.Text = "";
-            
-        }
+            tbCurso.Text = "";
+            tbEmail.Text = "";
 
-        private void cbDisciplina_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            
+            tbNome.Focus();
         }
     }
 }

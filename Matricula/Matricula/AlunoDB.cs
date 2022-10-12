@@ -26,10 +26,12 @@ namespace Matricula
         {
             MySqlConnection CN = new MySqlConnection(conexao);
             MySqlCommand Com = CN.CreateCommand();
-            Com.CommandText = "INSERT INTO dadosaluno (Matricula, Nome, Telefone) Values (?matricula, ?nome, ?telefone)";
-            Com.Parameters.AddWithValue("?matricula", alunos.getMatricula);
+            Com.CommandText = "INSERT INTO dadosalunos (Nome, Telefone, Disciplina, Curso, Email) Values (?nome, ?telefone, ?disciplina, ?curso, ?email)";
             Com.Parameters.AddWithValue("?nome", alunos.getNome);
             Com.Parameters.AddWithValue("?telefone", alunos.getTelefone);
+            Com.Parameters.AddWithValue("?disciplina", alunos.getDisciplina);
+            Com.Parameters.AddWithValue("?curso", alunos.getCurso);
+            Com.Parameters.AddWithValue("?email", alunos.getEmail);
             
 
             try
